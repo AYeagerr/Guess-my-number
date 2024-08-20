@@ -24,10 +24,10 @@ A simple and fun guessing game where you try to guess a randomly generated numbe
 
 ## Screenshots
 
-![Game Start](screenshots/correct guess.png)
+![Game Start](screenshots/gameStart.png)
 The game starts!
 
-![Correct Guess](screenshots/correct guess.png)
+![Correct Guess](screenshots/correctGuess.png)
 Correct answer!
 
 ## Installation
