@@ -6,7 +6,6 @@ A simple and fun guessing game where you try to guess a randomly generated numbe
 
 - **Interactive Gameplay:** Enter your guess and receive feedback on whether the number is too high, too low, or correct.
 - **Score Tracking:** Your score starts at 20 and decreases with each incorrect guess. Try to beat your high score!
-- **Responsive Design:** The game is styled to be visually appealing and works on various screen sizes.
 
 ## How to Play
 
@@ -25,11 +24,11 @@ A simple and fun guessing game where you try to guess a randomly generated numbe
 
 ## Screenshots
 
-![Game Start](path/to/screenshot1.png)
-*Description of the screenshot*
+![Game Start](screenshots/game start.png)
+The game starts!
 
-![Correct Guess](path/to/screenshot2.png)
-*Description of the screenshot*
+![Correct Guess](screenshots/correct guess.png)
+Correct answer!
 
 ## Installation
 
@@ -43,7 +42,3 @@ To play the game:
 - HTML5
 - CSS3
 - JavaScript (ES6)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
